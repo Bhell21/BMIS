@@ -1,0 +1,1 @@
+<?php $db = mysqli_connect('localhost','root','','bmis1_db')?>
